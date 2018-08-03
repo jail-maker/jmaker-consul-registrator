@@ -1,0 +1,11 @@
+{
+  "name": "jmaker-consul-registrator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "consul": "^0.34.0",
+    "ioredis": "^3.2.2",
+    "yargs": "^12.0.1"
+  }
+}
